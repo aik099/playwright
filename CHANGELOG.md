@@ -2,6 +2,9 @@
 
 ## [Unreleased]
 
+### Added
+- Launching a browser from a custom path through `withExecutablePath()` and `PW_EXECUTABLE_PATH`
+
 ## [1.5.0] - 2026-09-20
 
 ### Added
